@@ -80,42 +80,56 @@
 }
 
 .c1 {
-    background: url("../img/Data250.jpg");
+    background: url("../img/datadash.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
 }
 
 .c2 {
-    background: url("../img/Ideate250.jpg");
+    background: url("../img/CTF.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
 }
 
 .c3 {
-    background: url("../img/ProblemSolve250.jpg");
+    background: url("../img/CodeX.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
 }
 
 .c4 {
-    background: url("../img/ProductDev250.jpg");
+    background: url("../img/productdev.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
 }
 
 .c5 {
-    background: url("../img/Project250.jpg");
+    background: url("../img/projects\ inc.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
 }
 
 .c6 {
-    background: url("../img/Quiz250.jpg");
+    background: url("../img/Technoquiz.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+
+.c7 {
+    background: url("../img/UI.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+
+.c8 {
+    background: url("../img/RPA.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
