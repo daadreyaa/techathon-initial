@@ -4,7 +4,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-    let event = "Sept 1, 2022 23:59:59",
+    let event = "Sept 1, 2022 00:00:00",
         countDown = new Date(event).getTime(),
         x = setInterval(function() {
 
